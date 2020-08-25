@@ -3,6 +3,7 @@ Cython==0.29.21
 dnspython==2.0.0
 Flask==1.1.2
 Fortuna==3.18.2
+gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.16.0
