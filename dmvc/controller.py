@@ -49,4 +49,4 @@ class Bot:
 
 if __name__ == '__main__':
     bot = Bot()
-    print(bot.search("intelligent self awareness"))
+    print(bot.search("twins"))
